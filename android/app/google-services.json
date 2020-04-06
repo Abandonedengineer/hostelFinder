@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "586681433395",
+    "firebase_url": "https://hostelfinder-00.firebaseio.com",
+    "project_id": "hostelfinder-00",
+    "storage_bucket": "hostelfinder-00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586681433395:android:67a703fb056e3424ba1246",
+        "android_client_info": {
+          "package_name": "com.hostelfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586681433395-p3nhtt6bhqgf71hjb6js73f3798ge7dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hostelfinder",
+            "certificate_hash": "72085e5db50d85c96a96c042ed449c05a9783f46"
+          }
+        },
+        {
+          "client_id": "586681433395-q9p1qea8i292250957kleogj3jblgon4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiwFGtromNiiT5eHfewrAd76Ee18qb_Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586681433395-q9p1qea8i292250957kleogj3jblgon4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586681433395-1c380d5qu9k79bkfr0ljldr82r9pln8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hostelfinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586681433395:android:25206ca4210bc7e1ba1246",
+        "android_client_info": {
+          "package_name": "com.reactnativestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586681433395-3o4ncqfrv5f6ttgt6tsea5u8pfhmbtgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativestarter",
+            "certificate_hash": "72085e5db50d85c96a96c042ed449c05a9783f46"
+          }
+        },
+        {
+          "client_id": "586681433395-q9p1qea8i292250957kleogj3jblgon4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiwFGtromNiiT5eHfewrAd76Ee18qb_Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586681433395-q9p1qea8i292250957kleogj3jblgon4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586681433395-1c380d5qu9k79bkfr0ljldr82r9pln8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hostelfinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
